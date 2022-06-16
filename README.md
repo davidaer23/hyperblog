@@ -1,2 +1,0 @@
-# hyperblog
-Blog platzi
