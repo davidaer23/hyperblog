@@ -32,7 +32,16 @@ body{
     font-size: 0.8em;
 }
 
+<<<<<<< HEAD
 .logo{
     width: 150px;
     padding-right: 10px;
+}
+=======
+.footer{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    
+>>>>>>> footer
 }
