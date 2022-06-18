@@ -7,3 +7,5 @@ Un blog increible para el curso de git
 * Item 2
 * asas
 * asasd
+* incluye ejemplos
+* disponible
